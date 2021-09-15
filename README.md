@@ -10,9 +10,9 @@ cd Tic-Tac-Toe
 python main.py
 ```
 
-<p align="center">
+<!-- <p align="center">
 <img src="/images/preview.gif">
-</p>
+</p> -->
 
 ## Screenshots
 <p align="center">
